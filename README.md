@@ -7,8 +7,8 @@
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
 -->
 <div style="display: inline_block"><br>
-  <a href="https://github.com/KamiNoKod0mo"><img height='200px' align="center" src="https://github-readme-stats.vercel.app/api?username=KamiNoKod0mo&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true" alt="KamiNoKod0mo github stats" /></a>
-  <a href="https://github.com/KamiNoKod0mo"><img height='200px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiNoKod0mo&langs_count=20&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true" /></a>
+  <a href="https://github.com/KamiNoKod0mo"><img height='180px' align="center" src="https://github-readme-stats.vercel.app/api?username=KamiNoKod0mo&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true" alt="KamiNoKod0mo github stats" /></a>
+  <a href="https://github.com/KamiNoKod0mo"><img height='180px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiNoKod0mo&langs_count=20&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true" /></a>
 </div>
 
 <div style="display: inline_block"><br>
